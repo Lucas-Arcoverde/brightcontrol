@@ -1,5 +1,7 @@
 # brightcontrol
 
+> AI vibecoded!
+
 A minimal, modern GTK4 popup for controlling screen brightness with [`brightnessctl`](https://github.com/Hummer12007/brightnessctl). Built for NixOS and the [oxwm](https://github.com/tonybanters/oxwm) status bar, but it works with any X11/Wayland setup.
 
 ## Features
