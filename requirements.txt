@@ -1,0 +1,7 @@
+# Dependência Python
+PyGObject>=3.46
+
+# Dependências de sistema (não instaláveis via pip):
+#   - GTK 4 (+ gobject-introspection)
+#   - brightnessctl
+# No NixOS use o default.nix incluído, que cuida de tudo.
